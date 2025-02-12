@@ -8,11 +8,8 @@ A robust and user-friendly task management system designed for committee heads t
 - [Introduction](#-introduction)
 - [Features](#-features)
 - [Technologies Used](#-technologies-used)
-- [Installation](#-installation)
 - [Usage](#-usage)
 - [Screenshots](#-screenshots)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -55,11 +52,4 @@ This tool is perfect for improving productivity, ensuring accountability, and en
 
 ---
 
-## 📥 Installation
 
-Follow these steps to run the project locally:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/task-management-system.git
-   cd task-management-system
